@@ -70,15 +70,7 @@ print("Average waiting time in system (Ws) =", round(Ws, 4), "seconds")
 ```
 
 ## Output :
-Arrival Rate (λ) = 0.1000
-Service Rate (μ) = 0.1250
-Number of Servers = 2
-Traffic Intensity (ρ) = 0.4000
+<img width="465" height="260" alt="image" src="https://github.com/user-attachments/assets/68866196-afe0-41a3-9420-8de0d44fd8d7" />
 
-Average number of materials in conveyor (Lq) = 0.1524
-Average number of materials in system (Ls) = 0.9524
-
-Average waiting time in conveyor (Wq) = 1.5238 seconds
-Average waiting time in system (Ws) = 9.5238 seconds
 ## Result : 
 Thus Muttiple-capacity-with-infinite-capacity executed successfully.
