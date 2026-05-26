@@ -42,5 +42,6 @@ print("Average waiting time in system (Ws) =", round(Ws, 4), "seconds")
 ```
 ## Output :
 <img width="465" height="260" alt="image" src="https://github.com/user-attachments/assets/68866196-afe0-41a3-9420-8de0d44fd8d7" />
+
 ## Result : 
 Thus Muttiple-capacity-with-infinite-capacity executed successfully.
